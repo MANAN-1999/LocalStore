@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "286964945207",
+    "project_id": "grosarydemo",
+    "storage_bucket": "grosarydemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286964945207:android:6ae5f55e7c3a22351c8ab2",
+        "android_client_info": {
+          "package_name": "com.localstoredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286964945207-5dlaqm7qvlmpiemva0c25v0f47qeo7fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.localstoredemo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "286964945207-4ittl19dtipj2r5tqcnksoj9hf5f06s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqod1s36-I8cLDGnlOmYY9rohgnYHTXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286964945207-4ittl19dtipj2r5tqcnksoj9hf5f06s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

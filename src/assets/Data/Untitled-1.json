@@ -1,0 +1,32 @@
+{
+  "allShop": [
+    {
+      "name": "Laxmi Enterprises",
+      "description": "Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt reprehenderit elit laborum.",
+      "rating": "4.3",
+      "tags": ["Groceries", "Fruits"],
+      "address": "Laxmi Road Kothrud",
+      "distance": "4.5 km away",
+      "deliveryTime": "30 - 45 min",
+      "productList": [
+        {
+          "name": "Chicken Tandoori",
+          "descripction": "Tandoori chicken is a chicken dish prepared by roasting chicken marinated...",
+          "price": "200",
+          "image": "https://firebasestorage.googleapis.com/v0/b/grosarydemo.appspot.com/o/chicken.png?alt=media&token=085ad7ae-5ed7-480c-9f5a-c44d2dc5731f",
+          "Type": [
+            {
+              "full": "Full",
+              "price": 600
+            },
+            {
+              "half": "half",
+              "price": 300
+            }
+          ]
+        },
+        {}
+      ]
+    }
+  ]
+}
